@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymh-yasmin&label=Profile%20views&color=0e75b6&style=flat" alt="ymh-yasmin" /> </p>
 
-<br />
-
 ## Connect with me: <a href="https://linkedin.com/in/yasmin-hamdy" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmin-hamdy" height="25" width="40" /></a><a href="https://stackoverflow.com/users/1898992" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1898992" height="25" width="40" /></a>
 
 <br />
