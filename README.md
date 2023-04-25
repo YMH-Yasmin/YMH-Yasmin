@@ -13,3 +13,5 @@ My name is Yasmin(https://github.com/YMH-Yasmin), and I'm a Software Developer. 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YMH-Yasmin&show_icons=true&count_private=true&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YMH-Yasmin&layout=compact)](https://github.com/your-username)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YMH-Yasmin&theme=github)
