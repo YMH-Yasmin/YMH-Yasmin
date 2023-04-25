@@ -24,6 +24,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YMH-Yasmin&size_weight=0.5&count_weight=0.5)](https://github.com/YMH-Yasmin/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YMH-Yasmin)](https://github.com/YMH-Yasmin/github-readme-stats)
+
 <!-- Social media and contact section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmin-hamdy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
