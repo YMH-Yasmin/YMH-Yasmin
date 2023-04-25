@@ -1,6 +1,6 @@
 <!-- Header section -->
 <p align="center">
-  <img src="https://github.com/YMH-Yasmin.png" width="150" height="150" alt="Profile Picture" />
+  <img src="https://media.licdn.com/dms/image/D4D35AQGQOlblrhlDrg/profile-framedphoto-shrink_200_200/0/1665175661522?e=1683057600&v=beta&t=TQmLfxKUa005suPzkPsJ8g_BpLheI4bC9WO5Y3y-kA8" width="150" height="150" style="border-radius:50%;" alt="Profile Picture" />
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
@@ -12,13 +12,8 @@
 
 <!-- About section -->
 <p align="center">
-  🔭 I’m currently working on [Current Project Name](https://github.com/your-username/current-project).<br />
   🌱 I’m currently learning [Technology/Language Name].<br />
-  👯 I’m looking to collaborate on [Open Source Project Name](https://github.com/open-source-project).<br />
-  💬 Ask me about [Any topic you would like to discuss].<br />
-  📫 How to reach me: [Your Email Address].<br />
-  😄 Pronouns: [He/Him/She/Her/They/Them].<br />
-  ⚡ Fun fact: [Your interesting fact].<br />
+  ⚡ Fun fact: I like to play football, ping pong & tennis.<br />
 </p>
 
 <!-- GitHub stats section -->
@@ -30,7 +25,6 @@
 <!-- Social media and contact section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmin-hamdy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your-email-address"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 <!-- Footer section -->
